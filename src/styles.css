@@ -1,0 +1,99 @@
+h1,
+h2,
+h3,
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+p {
+  opacity: 70%;
+}
+.card {
+  padding: 20px 30px;
+  margin-top: 10px;
+}
+.input-group {
+  width: 50%;
+}
+.chosenCity {
+  text-align: left;
+  font-size: 30px;
+  padding-top: 15px;
+  display: inline-block;
+}
+#currentTime {
+  text-align: left;
+  font-size: 25px;
+  padding-top: 15px;
+}
+i {
+  display: inline-block;
+  width: 100%;
+}
+h1 {
+  font-size: 70px;
+}
+.today {
+  font-size: 70px;
+  color: lightblue;
+  text-align: center;
+}
+.todayTemp {
+  font-size: 60px;
+}
+.details {
+  position: relative;
+  text-align: left;
+  top: -160px;
+  right: -370px;
+  font-size: 20px;
+  margin: -10px;
+}
+h2 {
+  font-size: 50px;
+  padding-top: 50px;
+  display: inline-block;
+}
+#celciusfarenheit {
+  position: relative;
+  top: -30px;
+  font-size: 20px;
+}
+#fahrenheit {
+  position: relative;
+  top: -30px;
+  font-size: 20px;
+}
+#change {
+  position: relative;
+  top: -20px;
+  font-size: 15px;
+}
+.tomorrow {
+  font-size: 50px;
+  text-align: center;
+}
+.tomorrowTitle {
+  margin-left: 150px;
+}
+.tomorrowTemp {
+  font-size: 40px;
+}
+.tuesday {
+  color: #ffe168;
+}
+.wednesday {
+  color: #d9d9d9;
+}
+.thursday {
+  color: #51c1da;
+}
+.bottom {
+  text-align: center;
+  padding-top: 30px;
+  font-size: 20px;
+}
+#bottom {
+  position: relative;
+  font-size: 20px;
+}
